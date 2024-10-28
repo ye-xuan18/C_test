@@ -1,0 +1,4 @@
+﻿  test.c
+D:\Desktop\C\进阶\2.循环语句\2.循环语句\test.c(164,14): warning C4013: “sleep”未定义；假设外部返回 int
+test.obj : error LNK2019: 无法解析的外部符号 _sleep，函数 _main 中引用了该符号
+D:\Desktop\C\进阶\2.循环语句\Debug\2.循环语句.exe : fatal error LNK1120: 1 个无法解析的外部命令
